@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url(assets/new\ 1.jpg);
+    background-size: 1500px 800px;
+    background-repeat: repeat;
+}
+body .navbar .container-fluid{
+    background-color: rgb(252, 251, 252);
+}
+body .container .card{
+    background-color:rgb(191, 194, 163);margin-right: 3%;
+}
+body .marquee{
+    color: blue;
+    font-size: 45px;
+}
+body .footer{
+    color: black;
+}
